@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "aioramu.xyz">
+<html>
+<title>aioramu</title>
+<head>
+<style src="add.css"></style>
+<style>
+p.center{
+    text-align:center;
+        letter-spacing:4px;
+}
+</style>
+        <style>
+            b.center1   {
+                text-align:right;
+            }
+        </style>
+                                    <script
+                                        src="Script.js">
+                                    </script>
+                                        <style>
+                                        
+                                            a{
+                                            color:green;
+                                            background-color:gray;
+                                            padding:50px:
+                                            width:50px
+                                            heigh:50px;
+                                            border:5px solid black;
+                                            }
+                                        </style>
+<style>
+a{
+padding:303px,350px;
+background-image:
+url("huli.jpg");
+border:2px solid red;
+width:303px;
+height:350px;
+color:red;
+background-color:green; 
+}
+span.middle {
+    vertical-align:-5px;
+}
+</style>
+    </head>
+    <h1>
+    <b class="center1"><big>NEW PAGE</big></b>
+</h1>
+        <body>  
+            <p class="position_static">
+            LOL
+            </p>
+        <a>     
+            Ya tut sait napisal bratishka
+        </a>
+    <div>
+     <b>this is shit</b>
+   </div> 
+</body>
+</html>
