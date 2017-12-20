@@ -1,5 +1,5 @@
 $(function(){
-$("#item").click(function() {
- $("#submenu").slideToggle(500);
+$("#item").click(function() {//function activating by a click
+ $("#submenu").slideToggle(500);//drop-down menu box
 });
 });
